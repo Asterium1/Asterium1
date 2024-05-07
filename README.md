@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, Eu sou a Th! 👋
 
-<!--
-**Thkkj1/Thkkj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Seja bem vindo(a) ao meu perfil! Pode me chamar de Th, eu não sou alguém muito experiente em programação, no máximo sei fazer uns scripts horríveis para roblox em .lua
 
-Here are some ideas to get you started:
+### Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Eu jogo qualquer tipo de jogo, mas tenho preferência em jogos FPS e de sobrevivência.
+
+🎸 Eu gosto muito de tocar violão e às vezes jogar basquete
+
+
+### Habilidades que almejo
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
