@@ -22,3 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thkkj1&theme=ocean-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+### Contatos
+Discord: thdodoi.
