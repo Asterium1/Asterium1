@@ -1,4 +1,4 @@
-### Olá, Eu sou a Th! 👋
+### Olá, pode me chamar de Th! 👋
 
 👩‍💻 Seja bem vindo(a) ao meu perfil! Pode me chamar de Th, eu não sou alguém muito experiente em programação, no máximo sei fazer uns scripts horríveis para roblox em .lua
 
