@@ -1,4 +1,4 @@
-# Lyn <3
+# Teaga <3
 
 <div align="center">
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
