@@ -17,4 +17,8 @@
 
 ### Developing...
 
-- Ipify
+- Nothing for now!
+
+  ### Curiosity
+  - Im brazilian
+  - I don't like to make my projects public, so, i archive they on Replit or private repository
