@@ -8,8 +8,6 @@
 
 ### Langs!
 
-- Python 🐍
-- Lua 🌙
 - TS/JS 💻
 - Rust 🦀
 - Assembly
@@ -17,8 +15,7 @@
 
 ### Developing...
 
-- Nothing for now!
+- My discord bot called Haika
 
   ### Curiosity
-  - Im brazilian
-  - I don't like to make my projects public, so, i archive they on Replit or private repository
+  - All my projects are on Replit or private repositories
