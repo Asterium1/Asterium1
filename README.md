@@ -15,7 +15,7 @@
 
 ### Developing...
 
-- My discord bot called Haika
+- My own discord bot
 
   ### Curiosity
   - All my projects are on Replit or private repositories
