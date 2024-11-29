@@ -6,7 +6,7 @@
 
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Meu nome é Mav, e sou um entusiasta em **cibersegurança**, **análise de dados** e **inteligência digital**. Aqui você encontrará projetos e estudos relacionados a linguagens de programação, ferramentas de segurança e automação.
+Meu nome é Mav, e sou uma entusiasta em **cibersegurança**, **análise de dados** e **inteligência digital**. Aqui você encontrará projetos e estudos relacionados a linguagens de programação, ferramentas de segurança e automação.
 
 ---
 
