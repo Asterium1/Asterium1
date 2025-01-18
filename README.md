@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=assembly&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/assembly-000000?style=for-the-badge&logo=asm&logoColor=white">
+  <img src="https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 
 ### Studying <img src="https://img.shields.io/badge/%20-📚-000000?style=flat-square&logo=book&logoColor=white">
