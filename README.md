@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Discord_Bots-000000?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Telegram_Bots-000000?style=for-the-badge&logo=telegram&logoColor=white">
   <img src="https://img.shields.io/badge/Full_Stack-000000?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Websites-000000?style=for-the-badge&logo=firefox&logoColor=white">
+  <img src="https://img.shields.io/badge/tools-000000?style=for-the-badge&logo=termux&logoColor=white">
 </div>
 
 ### Contact <img src="https://img.shields.io/badge/%20-📬-000000?style=flat-square&logo=mail&logoColor=white">
