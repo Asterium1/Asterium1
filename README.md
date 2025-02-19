@@ -40,7 +40,7 @@
 ### Contact <img src="https://img.shields.io/badge/%20-📬-000000?style=flat-square&logo=mail&logoColor=white">
 
 <div>
-  <a href="https://discord.com/users/681005755520122909">
+  <a href="https://discord.com/users/1163420819649736724">
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.instagram.com/piordevdomundo/"
    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
