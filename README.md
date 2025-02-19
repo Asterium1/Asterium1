@@ -46,3 +46,5 @@
    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
+- Curiosidade foda: só criei conta no Github pq a logo é um gato... simplesmente fodastico 
