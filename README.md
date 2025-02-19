@@ -1,8 +1,8 @@
-# Mav 👀
+# Olá! Eu me chamo Asterium!
 
-## About Me <img src="https://img.shields.io/badge/%20-🤖-000000?style=flat-square&logo=robot&logoColor=white">
+## About Me <img src="https://img.shields.io/badge/%20-♥️-000000?style=flat-square&logo=robot&logoColor=white">
 <div>
-  <img src="https://img.shields.io/badge/Desenvolvedora_Full_Stack-000000?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img src="https://img.shields.io/badge/Pentester-000000?style=for-the-badge&logo=dev.to&logoColor=white">
   <img src="https://img.shields.io/badge/Programadora_Backend-000000?style=for-the-badge&logo=serverless&logoColor=white">
   <img src="https://img.shields.io/badge/Estudante_de_Programação-000000?style=for-the-badge&logo=academia&logoColor=white">
 </div>
@@ -10,10 +10,10 @@
 ### Langs <img src="https://img.shields.io/badge/%20-💻-000000?style=flat-square&logo=code&logoColor=white">
 
 <div>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp#&logoColor=white">
   <img src="https://img.shields.io/badge/julia-000000?style=for-the-badge&logo=julia&logoColor=white">
   <img src="https://img.shields.io/badge/assembly-000000?style=for-the-badge&logo=asm&logoColor=white">
   <img src="https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=white">
@@ -22,9 +22,9 @@
 ### Studying <img src="https://img.shields.io/badge/%20-📚-000000?style=flat-square&logo=book&logoColor=white">
 
 <div>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ### Development <img src="https://img.shields.io/badge/%20-💡-000000?style=flat-square&logo=idea&logoColor=white">
